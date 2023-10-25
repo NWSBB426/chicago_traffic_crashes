@@ -1,6 +1,6 @@
 # Analysis of Chicago Traffic Crashes
 
-Group members: Sean Bell (captain), Sonia Singh, Jian Liu, Tony Quintana
+Group members: Sean Bell (captain), Sonia Singh, Jian Liu, Tony Quintana, Cynthia Saving
 
 Initial Broad Questions We Had: 
 When and how is it safest to travel through Chicago, analyzing serious injuries and fatalities in the last year
@@ -20,7 +20,10 @@ When and how is it safest to travel through Chicago, analyzing serious injuries 
 - Vehicles made in 2017 had most accidents.
 - Chevy passenger vehicles are most common with accidents.
 
-
+![Crash Type by Month](Images/crash_type_month.png)
+![Crash Counts by Month](Images/crash_counts_month.png)
+![Fatal Crashes by Month](Images/fatal_month.png)
+![Driver Ages](Images/Age_Crashes.png)
 
 
 # References: 
